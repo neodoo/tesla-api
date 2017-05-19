@@ -1,0 +1,12 @@
+language: java
+
+notifications:
+  email:
+  - alejandroherandezpardos@gmail.com
+  - francisco.solans@neodoo.es
+
+jdk:
+  - openjdk8
+
+script:
+  - mvn clean compile package-Dmaven.test.skip=true 

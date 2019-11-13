@@ -18,7 +18,7 @@
 	<properties>
 		<jersey-client>1.8</jersey-client>
 		<json>20160810</json>
-		<jackson-databind>2.4.4</jackson-databind>
+		<jackson-databind>2.9.10.1</jackson-databind>
 		<jersey-media-json-jackson>2.8</jersey-media-json-jackson>
 		<junit>4.8.2</junit>
 	</properties>

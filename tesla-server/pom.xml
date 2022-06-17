@@ -23,7 +23,7 @@
 	</parent>
 
 	<properties>
-		<resteasy-jaxrs>2.2.1.GA</resteasy-jaxrs>
+		<resteasy-jaxrs>3.0.11.Final</resteasy-jaxrs>
 		<jackson-databind>2.4.4</jackson-databind>
 		<junit>4.8.2</junit>
 		<jdk>1.8</jdk>

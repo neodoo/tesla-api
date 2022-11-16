@@ -24,7 +24,7 @@
 
 	<properties>
 		<resteasy-jaxrs>2.2.1.GA</resteasy-jaxrs>
-		<jackson-databind>2.4.4</jackson-databind>
+		<jackson-databind>2.12.7.1</jackson-databind>
 		<junit>4.8.2</junit>
 		<jdk>1.8</jdk>
 	</properties>
